@@ -13,7 +13,7 @@ libraryDependencies ++= Seq(
 )
 
 enablePlugins(DebianPlugin)
-maintainer := “Chris Gray <cgray2792@gmail.com>“
+maintainer := "Chris Gray <cgray2792@gmail.com>"
 packageSummary := "Jenkins 101"
 packageDescription := "Jenkins 101"
 
